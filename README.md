@@ -6,6 +6,7 @@ I have used laplace distribution here in this example.
 
 Install Scikit-learn:
 I have followed the following doc and it works.
+https://scikit-learn.org/stable/install.html
 
 Alternatively you can install Anaconda which offers scikit-learn:
 Follow this :  https://teamtreehouse.com/library/installing-scikitlearn-using-anaconda
@@ -13,4 +14,4 @@ Follow this :  https://teamtreehouse.com/library/installing-scikitlearn-using-an
 Either of these should be fine.
 I developed and ran this module in Ubuntu and Fedora.
 
-Knowing python is must.
+Knowledge of Python and numpy library is must.
