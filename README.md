@@ -18,7 +18,8 @@ Knowledge of Python and numpy library is must.
 
 How it works:
 
-   """Given a numpy array of counts (of any dimension), return a tuple of subtotals.
+...
+    Given a numpy array of counts (of any dimension), return a tuple of subtotals.
     Eg. if count[i][j][k] = the count of tuples (i, j, k), then return
     (sum count[j][k] over i, sum count[i][k] over j, sum count[i][j] over k).
     >>> calculate_subtotals(np.array([1, 2, 3]))
@@ -33,4 +34,6 @@ How it works:
         ]))
     (array([[-9, -8, -7], [54, 55, 56]]),
      array([[ 5,  7,  9], [40, 40, 40]]),
-     array([[  6,  15], [-30, 150]]))"""
+     array([[  6,  15], [-30, 150]]))
+     ...
+     
