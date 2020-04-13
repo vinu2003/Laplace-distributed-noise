@@ -14,7 +14,7 @@ Follow this :  https://teamtreehouse.com/library/installing-scikitlearn-using-an
 Either of these should be fine.
 I developed and ran this module in Ubuntu and Fedora.
 
-Knowledge of Python and numpy library is must.
+Knowledge of Python and numpy library are must. But they are very easy to learn.
 
 How it works:
 
